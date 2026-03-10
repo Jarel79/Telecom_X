@@ -1,5 +1,4 @@
-# Proyecto Telecom-X - Análisis de Evasión de Clientes (Churn)
-
+# Proyecto Telecom-X - Análisis de Evasión de Clientes
 ## Descripción
 Este proyecto corresponde al análisis de **evasión de clientes (Churn)** en una compañía ficticia de telecomunicaciones, **Telecom-X**.  
 El trabajo sigue el enfoque **ETL (Extract, Transform, Load)** complementado con **análisis exploratorio de datos (EDA)** y generación de insights de negocio.  
